@@ -8,3 +8,4 @@ Master add new line
 echo 'hahh'
 add 'new line'
 add 'ttt'
+add 'cccc'
